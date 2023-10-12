@@ -29,8 +29,9 @@ Team
 
 ## Screenshots
 
-![App Screenshot](https://varun-demo1.s3.eu-north-1.amazonaws.com/darkmode.png) 
-![App Screenshot](https://varun-demo1.s3.eu-north-1.amazonaws.com/lightmode.png) 
+<img src="https://varun-demo1.s3.eu-north-1.amazonaws.com/darkmode.png" width="300" height="auto"><img src="https://varun-demo1.s3.eu-north-1.amazonaws.com/lightmode.png" width="300" height="auto"><img src="https://varun-demo1.s3.eu-north-1.amazonaws.com/search.png" width="300" height="auto">
+
+
 # Libraries and Services Used
 
 Libraries
