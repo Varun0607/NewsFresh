@@ -6,15 +6,6 @@
 
 An Android app written in Kotlin that seeks to provide breaking news straight to your fingertips.
 
-## Team Members
-
-- [@VarunSapra](https://github.com/Varun0607) - (21BCE10224) [_Team Leader_]
-- [@Aditya Harsh](https://github.com/) (21BCE10346)
-- [@Aditya Zaveri](https://github.com/zaveriiadi) (21BCE10323)
-- [@Shwetambara Sahay](https://github.com/ShwetambaraSahay) (21BCE10_)
-
-
-
 ## Acknowledgement
 
 We extend our heartfelt gratitude to SmartInternz for entrusting us with the creation of NewsFresh, a dynamic news app developed in Kotlin. The Android Development using Kotlin program provided us with invaluable skills and knowledge, forming the bedrock of this project. Our mentors' guidance was instrumental in refining NewsFresh into its current form.
