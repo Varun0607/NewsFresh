@@ -16,7 +16,7 @@ Thank you, SmartInternz, for this transformative opportunity.
 
 Warm regards,
 
-Team 
+Varun Sapra
 
 ## Screenshots
 
